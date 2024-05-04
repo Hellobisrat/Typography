@@ -1,12 +1,14 @@
 # Typography
 
+
 this project constructed with html and css
 
-responsive web when the width 768 px and
+basic and advanced css property covered
+to mention some of the css property 
+like - responsive web when the width 768 px and
 less than that the body flex direction changed
 to column
-
-flex growth property also covered
+-flex growth property also covered
 like flex (1,1,0) it shows
 no grow, shrink
 
